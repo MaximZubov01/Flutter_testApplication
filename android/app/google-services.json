@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923059500041",
+    "project_id": "learnapplication-f2c26",
+    "storage_bucket": "learnapplication-f2c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923059500041:android:d8b012db5d05a5046cb4d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5nh_EcoNtOYOjVuAfUnuyGVSd_VnHnXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
